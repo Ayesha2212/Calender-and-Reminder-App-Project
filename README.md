@@ -16,10 +16,10 @@ Tech Stack:
 
 Project Structure
 calendar_app/
-│── main.py
-│── reminder.py
-│── utils.py
-│── README.md
+│── app.py
+│── calendar_manager.py
+│── reminder_manager.py
+│── ui.py
 
 Learning Outcomes:
 - Improved Python programming skills
