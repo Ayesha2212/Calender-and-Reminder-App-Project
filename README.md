@@ -34,7 +34,7 @@ Learning Outcomes:
 - Mobile/web version
 
  Author:
- Laxmipriya Nayak
+ Laxmi Priya Nayak
 
 This project was developed as part of my internship at  PinnacleLabs.
 
